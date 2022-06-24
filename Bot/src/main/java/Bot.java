@@ -8,8 +8,8 @@ import org.telegram.telegrambots.meta.api.objects.Update;
 
 public class Bot extends TelegramLongPollingBot {
 
-    private static final String TOKEN = "5190578285:AAGl_II28aiz0DZwF_TEI6M67twsYXbARAI";
-    private static final String USERNAME = "wellguy_bot";
+    private static final String TOKEN = "токен бота";
+    private static final String USERNAME = "username бота";
 
     public Bot(DefaultBotOptions options) {
         super(options);
